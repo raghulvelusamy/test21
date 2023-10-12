@@ -31,7 +31,7 @@ android {
 dependencies {
     //testing
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
 
     androidTestImplementation 'com.android.support.test:rules:1.0.2'
