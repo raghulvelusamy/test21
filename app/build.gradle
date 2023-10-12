@@ -72,7 +72,7 @@ dependencies {
     //espresso and ui tests
     androidTestImplementation "com.android.support.test.espresso:espresso-contrib:3.0.2"
     androidTestImplementation 'androidx.test:rules:1.2.0'
-    androidTestImplementation 'com.squareup.rx.idler:rx2-idler:0.9.1'
+    androidTestImplementation 'com.squareup.rx.idler:rx2-idler:0.11.0'
 
     //anr watchdog
     debugImplementation "com.github.anrwatchdog:anrwatchdog:$versions.anrWatchDog"
