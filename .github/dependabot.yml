@@ -5,9 +5,9 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
+  - package-ecosystem: "gradle" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-      time: "10:49"
+      time: "10:50"
       timezone: "America/Los_Angeles"
