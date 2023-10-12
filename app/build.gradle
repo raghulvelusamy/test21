@@ -63,7 +63,7 @@ dependencies {
     implementation 'io.reactivex.rxjava2:rxjava:2.2.9'
 
     //leak canary
-    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.0-beta-2'
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.12'
 
     // Room
     implementation "android.arch.persistence.room:runtime:1.1.1"
