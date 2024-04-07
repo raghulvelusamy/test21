@@ -7,5 +7,17 @@
    "enabledManagers":[
       "gradle",
       "maven"
-   ]
+   ],
+   "packageRules": [
+    {
+      "matchManagers": [
+        "maven",
+        "gradle"
+      ],
+      "registryUrls": [
+        "https://maven.google.com",
+        "https://repo.maven.apache.org/maven2"
+      ]
+    }
+  ]
 }
