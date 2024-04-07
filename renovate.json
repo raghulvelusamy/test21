@@ -5,6 +5,7 @@
       ":dependencyDashboard"
    ],
    "enabledManagers":[
-      "gradle"
+      "gradle",
+      "maven"
    ]
 }
