@@ -1,5 +1,5 @@
 [versions]
-groovy = "3.0.5"
+groovy = "3.0.21"
 checkstyle = "8.37"
 
 [libraries]
