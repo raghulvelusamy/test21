@@ -17,7 +17,8 @@
       "registryUrls": [
         "https://maven.google.com",
         "https://repo.maven.apache.org/maven2",
-         "https://repository.mulesoft.org/nexus/content/groups/public/"
+         "https://repository.mulesoft.org/nexus/content/groups/public/",
+         "https://plugins.gradle.org/"
       ]
     }
   ]
