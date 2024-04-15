@@ -18,8 +18,7 @@
             "https://maven.google.com",
             "https://repo.maven.apache.org/maven2",
             "https://plugins.gradle.org/",
-            "https://repository.mulesoft.org/nexus/content/repositories/public/",
-            "https://repo.spring.io/plugins-release/",
+            "https://www.jitpack.io",
             "https://jcenter.bintray.com/"
          ]
       }
